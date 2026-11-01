@@ -34,7 +34,9 @@ This project presents an end-to-end Pizza Sales Analysis Report designed to tran
 
 - **Category & Size Breakdown**: Donut and pie charts showing revenue share by Pizza Category and Pizza Size, paired with a horizontal bar chart tracking total unit sales per category.
 
-**2. Best/Worst Seller View (Product Performance)**   
+**2. Best/Worst Seller View (Product Performance)**  
+
+<img src = " " alt = "Pizza Sales Analysis Report" width = "600">
 
 - **Top 5 Performers**: Horizontal bar charts ranking the highest-performing pizzas by Revenue, Total Orders, and Total Quantity Sold.   
 
