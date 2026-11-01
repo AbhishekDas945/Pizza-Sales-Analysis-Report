@@ -26,6 +26,8 @@ This project presents an end-to-end Pizza Sales Analysis Report designed to tran
 
 **1. Home View (Sales Overview & Temporal Trends)**
 
+<img src = "https://github.com/AbhishekDas945/Pizza-Sales-Analysis-Report/blob/b59a2c0e792e0e259c3499f467ec44c11d0da309/Screenshot%202026-11-01%20205249.png" alt = "Pizza Sales Analysis Report" width = "600">
+
 - **Interactive Slicers**: Filter the entire report dynamically by Pizza Category and Date Range (01-01-2015 to 31-12-2015), complete with a one-click Clear all slicers button.
 
 - **Daily & Monthly Order Trends**: Bar and area charts illustrating order volume across days of the week and months of the year.   
