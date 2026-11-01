@@ -36,7 +36,7 @@ This project presents an end-to-end Pizza Sales Analysis Report designed to tran
 
 **2. Best/Worst Seller View (Product Performance)**  
 
-<img src = " " alt = "Pizza Sales Analysis Report" width = "600">
+<img src = "https://github.com/AbhishekDas945/Pizza-Sales-Analysis-Report/blob/cce550445c4425c14cec40889aa2b30d353ccda2/Screenshot%202026-11-01%20205143.png" alt = "Pizza Sales Analysis Report" width = "600">
 
 - **Top 5 Performers**: Horizontal bar charts ranking the highest-performing pizzas by Revenue, Total Orders, and Total Quantity Sold.   
 
